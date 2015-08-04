@@ -1,0 +1,24 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "dependencies": {
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnGiEYaNg/node-shell.git"
+  },
+  "keywords": [],
+  "author": "Angie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnGiEYaNg/node-shell/issues"
+  },
+  "homepage": "https://github.com/AnGiEYaNg/node-shell"
+}
